@@ -16,8 +16,8 @@ That means pressing <kbd>cmd ⌘</kbd> + <kbd>C</kbd> will actually copy what yo
 Go to [ahkscript.org](http://ahkscript.org/) and download the program AutoHotKey. This can control the keyboard on Windows and therefore let's us do some cool things
 
 ### 2. Download the scripts
-- Download [Switch Windows and Cmd Key.ahk]()
-- Download [Reverse Scrolling.ahk]()
+- Download [Switch Windows and Cmd Key.ahk](https://raw.githubusercontent.com/stephanbogner/Customize-Windows-For-Mac-Users/master/Autohotkey%20Scripts/Switch%20Windows%20and%20Cmd%20Key.ahk)
+- Download [Reverse Scrolling.ahk](https://raw.githubusercontent.com/stephanbogner/Customize-Windows-For-Mac-Users/master/Autohotkey%20Scripts/Reverse%20Scrolling.ahk)
 
 ### 3. Start scripts on startup
 Put the scripts into `C: ▶ Users ▶ Your Username ▶ AppData ▶ Roaming ▶ Microsoft ▶ Windows ▶ Start Menu ▶ Programs ▶ Startup` and they will start automatically when you boot Windows.

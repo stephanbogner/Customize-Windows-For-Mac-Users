@@ -1,4 +1,4 @@
-﻿#RCtrl::RWin
+﻿RCtrl::RWin
 RWin::RCtrl
 LCtrl::LWin
 LWin::LCtrl
